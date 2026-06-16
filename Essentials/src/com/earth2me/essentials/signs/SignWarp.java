@@ -12,7 +12,7 @@ public class SignWarp extends EssentialsSign
 {
 	public SignWarp()
 	{
-		super("Warp");
+		super("Warp (tp)");
 	}
 
 	@Override
